@@ -132,3 +132,8 @@ Faire que l'élément `body` ait la classe CSS `noscroll` quand le menu est ouve
 https://developer.mozilla.org/fr/docs/Web/API/Element/classList#toggle
 
 **Faire commit** : classe `noscroll`.
+
+# TP Semaine 2 Hébergement
+
+## Faire une arborescence
+
